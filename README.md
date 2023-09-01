@@ -1,1 +1,1 @@
-# ai-companion-support
+# AI Companion Support
